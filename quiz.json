@@ -174,5 +174,60 @@
             "All of the above"
         ],
         "answer": 4
+    },
+    {
+        "index": 16,
+        "question": "Which of the following are not server-side Javascript objects?",
+        "options": [
+            "date",
+            "file upload",
+            "Function",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "index": 17,
+        "question": "Which of the following are not server-side Javascript objects?",
+        "options": [
+            "date",
+            "file upload",
+            "Function",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "index": 18,
+        "question": "Which of the following are not server-side Javascript objects?",
+        "options": [
+            "date",
+            "file upload",
+            "Function",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "index": 19,
+        "question": "Which of the following are not server-side Javascript objects?",
+        "options": [
+            "date",
+            "file upload",
+            "Function",
+            "All of the above"
+        ],
+        "answer": 4
+    },
+    {
+        "index": 20,
+        "question": "Which of the following are not server-side Javascript objects?",
+        "options": [
+            "date",
+            "file upload",
+            "Function",
+            "All of the above"
+        ],
+        "answer": 4
     }
 ]
